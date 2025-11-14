@@ -1,0 +1,11 @@
+requrements:-
+
+• Python 
+• Pandas 
+• Matplotlib 
+• Seaborn 
+• Data Cleaning 
+• SQL 
+• PowerBI
+• Business Intelligence 
+• Statistical Analysis
